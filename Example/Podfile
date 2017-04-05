@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftySky_Example' do
+  pod 'SwiftySky', :path => '../'
+
+  target 'SwiftySky_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
