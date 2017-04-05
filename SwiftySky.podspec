@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftySky'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SwiftySky.'
+  s.summary          = 'Dark Sky SDK with Swift 3'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

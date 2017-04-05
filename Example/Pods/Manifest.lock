@@ -1,0 +1,16 @@
+PODS:
+  - SwiftySky (0.1.0)
+
+DEPENDENCIES:
+  - SwiftySky (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftySky:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftySky: 64c2f79ec7f33e4f420ab65462cb2977242026b4
+
+PODFILE CHECKSUM: fcade69e3678d3b115fd9459790d78c8bf026989
+
+COCOAPODS: 1.2.0

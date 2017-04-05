@@ -1,0 +1,22 @@
+{
+  "name": "SwiftySky",
+  "version": "0.1.0",
+  "summary": "Dark Sky SDK with Swift 3",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/n89nanda/SwiftySky",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "n89nanda": "nabhat@paypal.com"
+  },
+  "source": {
+    "git": "https://github.com/n89nanda/SwiftySky.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftySky/Classes/**/*"
+}
