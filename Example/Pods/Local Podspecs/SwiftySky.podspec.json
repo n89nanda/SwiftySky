@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SwiftySky/Classes/**/*"
+  "source_files": "SwiftySky/Classes/**/*",
+  "dependencies": {
+    "AlamofireObjectMapper": [
+      "~> 4.0"
+    ]
+  }
 }
